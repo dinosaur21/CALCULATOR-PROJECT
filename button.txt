@@ -1,0 +1,11 @@
+.lightmode .calc .button,.b{
+     background-color: #80ccff;
+}
+
+.lightmode .calc .clear{
+     background-color: #0886da;
+}
+
+.lightmode form .ip input{
+     background-color: #ffcccc;
+}
